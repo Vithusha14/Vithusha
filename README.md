@@ -9,7 +9,6 @@
 
 
 
-
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-profile](https://www.linkedin.com/in/vithusha-pathmanathan-8b356828a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)/)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/[@your-medium-username](https://medium.com/@vithusha_))
