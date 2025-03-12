@@ -7,7 +7,7 @@ A passionate Developer
 ## 🌱 I’m currently learning MERN Stack
 ## 🔭 I’m currently working on @Habb
 ## 💬 Ask me about **MERN, Java, Python**
-### 📫 How to reach me: **[Your Email]**
+#### 📫 How to reach me: **[Your Email]**
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
