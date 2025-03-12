@@ -2,7 +2,7 @@
 
 A passionate Developer 
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=your-github-Vithusha14&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🌱 I’m currently learning MERN Stack
 ## 🔭 I’m currently working on @Habb
